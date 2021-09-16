@@ -5,10 +5,10 @@
     { "id": 3, "titulo": "Banco de Dados", "codigo": "BCD" },
     { "id": 4, "titulo": "Interfaces para Dispositivos Móveis", "codigo": "INDMO" }
   ],
-"linguagens":
-    { "id": 1, "titulo": "Python", "codigo": "py" },
-    { "id": 2, "titulo": "Javascript", "codigo": "js" },
-    { "id": 3, "titulo": "Java", "codigo": "java" },
-    { "id": 4, "titulo": "Linguagem de Marcação", "codigo": "html" }
+"linguagens": {
+    "id": 1, "titulo": "Python", "codigo": "py" },
+    "id": 2, "titulo": "Javascript", "codigo": "js" },
+    "id": 3, "titulo": "Java", "codigo": "java" },
+    "id": 4, "titulo": "Linguagem de Marcação", "codigo": "html" }
 }
 }
