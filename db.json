@@ -6,6 +6,6 @@
     { "id": 4, "titulo": "Interfaces para Dispositivos Móveis", "codigo": "INDMO" }
   ],
   "linguagens": {
-    "id": "typicode"
+    "name": "typicode"
   }
 }
