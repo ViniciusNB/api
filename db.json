@@ -4,8 +4,5 @@
     { "id": 2, "titulo": "Programação Web Back-end", "codigo": "PWBE" },
     { "id": 3, "titulo": "Banco de Dados", "codigo": "BCD" },
     { "id": 4, "titulo": "Interfaces para Dispositivos Móveis", "codigo": "INDMO" }
-  ],
-  "linguagens": {
-    "name": "typicode"
-  }
+  ]
 }
