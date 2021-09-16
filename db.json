@@ -1,8 +1,14 @@
 {
-  "disciplinas": [
-    { "id": 1, "titulo": "Programação Web Front-end", "codigo": "PWFE" },
-    { "id": 2, "titulo": "Programação Web Back-end", "codigo": "PWBE" },
-    { "id": 3, "titulo": "Banco de Dados", "codigo": "BCD" },
-    { "id": 4, "titulo": "Interfaces para Dispositivos Móveis", "codigo": "INDMO" }
+  "livros": [
+    { "id": 1, "titulo": "Dom Quixote", "autor": "Miguel de Cervantes" },
+    { "id": 2, "titulo": "Guerra e Paz", "autor": "Liev Tolstói" },
+    { "id": 3, "titulo": "A Montanha Mágica", "autor": "Thomas Mann" },
+    { "id": 4, "titulo": "Cem Anos de Solidão", "autor": "Gabriel García Márquez" }
+    { "id": 5, "titulo": "Ulisses", "autor": "James Joyce" }
+    { "id": 6, "titulo": "Em Busca do Tempo Perdido", "autor": "Marcel Proust" }
+    { "id": 7, "titulo": "A Divina Comédia", "autor": "Dante Alighieri" }
+    { "id": 8, "titulo": "O Homem sem Qualidades", "autor": "Robert Musil" }
+    { "id": 9, "titulo": "O Processo", "autor": "Franz Kafka" }
+    { "id": 10, "titulo": "O Som e a Fúria", "autor": "William Faulkner" } 
   ]
 }
